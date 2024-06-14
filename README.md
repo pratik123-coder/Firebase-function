@@ -34,6 +34,5 @@ Follow these commands -
     "chkoutdt":"checkout date in format of "8june" / "14june"
 }
 
-#Screenshots
-<img width="1440" alt="Screenshot 2024-06-13 at 4 40 20 PM" src="https://github.com/pratik123-coder/Firebase-function/assets/66104012/b37a51fa-276e-4a50-9bf0-4ae606e32394">
+#Screenshot
 <img width="1280" alt="Screenshot 2024-06-13 at 4 41 52 PM" src="https://github.com/pratik123-coder/Firebase-function/assets/66104012/9b4ad77e-059a-4523-aaea-dbbf1d426639">
