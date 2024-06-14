@@ -1,7 +1,7 @@
 export const bookedHotel = [
-    { id: "b1", dt: "30may", roomId: "r1" },
-    { id: "b2", dt: "1june", roomId: "r2" },
-    { id: "b3", dt: "1june", roomId: "r1" },
+    { id: "b1", dt: "1june", roomId: "r1" },
+    { id: "b2", dt: "5june", roomId: "r2" },
+    { id: "b3", dt: "7june", roomId: "r1" },
     { id: "b4", dt: "10june", roomId: "r4" },
     { id: "b5", dt: "15june", roomId: "r6" },
     { id: "b6", dt: "18june", roomId: "r7" },
